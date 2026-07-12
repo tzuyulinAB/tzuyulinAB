@@ -10,8 +10,8 @@ Research Interests
 
 ────────────────────────
 
-Pinned repositories
+Bioinformatic Pipelines
 
 - **[Metagenomics Pipeline](https://github.com/tzuyulinAB/Metagenomics_Pipeline)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tzuyulinAB&repo=RNA-Seq_Pipeline)](https://github.com/tzuyulinAB/RNA-Seq_Pipeline)
+- **[RNA-Seq Pipeline](https://github.com/tzuyulinAB/RNA-Seq_Pipeline)
