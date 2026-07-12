@@ -1,6 +1,3 @@
-Profile README
-────────────────────────
-
 Tzu-Yu Lin
 
 Scientist | Bioinformatics | Microbial Ecology
