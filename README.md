@@ -12,6 +12,5 @@ Research Interests
 
 Bioinformatic Pipelines
 
-- **[Metagenomics Pipeline](https://github.com/tzuyulinAB/Metagenomics_Pipeline)
-
-- **[RNA-Seq Pipeline](https://github.com/tzuyulinAB/RNA-Seq_Pipeline)
+- [Metagenomics Pipeline](https://github.com/tzuyulinAB/Metagenomics_Pipeline)
+- [RNA-Seq Pipeline](https://github.com/tzuyulinAB/RNA-Seq_Pipeline)
