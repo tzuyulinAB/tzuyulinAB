@@ -12,5 +12,5 @@ Research Interests
 
 Pinned repositories
 
-1. Metagenomics Pipeline
-2. RNA-seq Analysis
+1. Metagenomics_Pipeline
+2. RNA-Seq_Pipeline
