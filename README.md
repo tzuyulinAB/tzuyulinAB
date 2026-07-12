@@ -6,7 +6,8 @@ Scientist | Bioinformatics | Microbial Ecology
 Research Interests
 
 - Metagenomics
-- Metatranscriptomics
+- RNA-Seq (Metatranscriptomics)
+- Amplicon seqeuncing
 - Microbial Ecology
 
 ────────────────────────
