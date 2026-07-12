@@ -5,9 +5,9 @@ Scientist | Bioinformatics | Microbial Ecology
 
 Research Interests
 
-• Metagenomics
-• Metatranscriptomics
-• Microbial Ecology
+- Metagenomics
+- Metatranscriptomics
+- Microbial Ecology
 
 ────────────────────────
 
