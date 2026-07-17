@@ -1,6 +1,6 @@
 Tzu-Yu Lin
 
-Scientist | Bioinformatics | Microbial Ecology
+Scientist | Bioinformatics | Microbial Ecology | Microbiology | Molecular Biology
 
 
 Research Interests
